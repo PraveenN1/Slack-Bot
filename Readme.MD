@@ -1,7 +1,7 @@
 # Slack Bot 
 
 A Slack bot built using Node.js and Express.js to manage simple approval workflows within Slack workspace.
-![Alt Text]("Slack-Bot Architecture.png")
+![Alt Text]("Slack-Bot-Architecture.png")
 
 ## Features
 
